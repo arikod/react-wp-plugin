@@ -1,0 +1,1 @@
+<div id="arikod-admin-app"></div>

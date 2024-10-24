@@ -1,0 +1,15 @@
+{
+    "name": "arikod/react",
+    "autoload": {
+        "psr-4": {
+            "Arikod\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bekir Gülmüş",
+            "email": "bekir.gulmus@hotmail.com"
+        }
+    ],
+    "require": {}
+}
